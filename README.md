@@ -1,6 +1,6 @@
 <h1> Hey, I’m Vigneshwaran </h1>
 
-<img src="./images/rishikesh-ganga.JPG" width="32%" alt="vector" align="right"> 
+<!-- <img src="./images/rishikesh-ganga.JPG" width="32%" alt="vector" align="right">  -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full-stack+Developer+💻🌐;Curious+Learner+🌟;Coder+💻;)](https://git.io/typing-svg)
 
