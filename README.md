@@ -41,6 +41,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![Tomcat Servlet](https://img.shields.io/badge/Tomcat_Servlet-F8DC75.svg?style=for-the-badge&logo=Apache&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-lightblue.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-orange.svg?style=for-the-badge&logo=JUnit&logoColor=white)
@@ -55,22 +56,22 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vigneshwaran-48&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaran-48&layout=compact&theme=transparent&hide_border=true)](https://github.com/vigneshwaran-48/github-readme-stats)
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshwaran-48&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/vigneshwaran-48)
+[![Vigneshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshwaran-48&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/vigneshwaran-48)
 </p>
   </div>
 
 ## 🔝 Top Repositories
 <div align = "center">
-<a href="https://github.com/vigneshwaran-48/Book-Recommendation">
+<a href="https://github.com/vigneshwaran-48/blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwaran-48&repo=blog&theme=transparent" />
 </a>
-<a href="https://github.com/vigneshwaran-48/Stock-Market-Advisor">
+<a href="https://github.com/vigneshwaran-48/blog-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwaran-48&repo=blog-app&theme=transparent" />
 </a>
-<a href="https://github.com/vigneshwaran-48/Code-Translator">
+<a href="https://github.com/vigneshwaran-48/TaskManager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwaran-48&repo=TaskManager&theme=transparent" />
 </a>
-<a href="https://github.com/vigneshwaran-48/CareerWise">
+<a href="https://github.com/vigneshwaran-48/TaskManagerUI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwaran-48&repo=TaskManagerUI&theme=transparent" />
 </a>
 </div>
