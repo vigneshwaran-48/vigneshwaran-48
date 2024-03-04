@@ -31,7 +31,6 @@
 <img height="55" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
 <img height="55" alt="typescript" src="./images/typescript-logo.png"> 
 <img height="55" alt="docker" src="./images/docker-logo.png"> 
-<img height="55" alt="protobuff" src="./images/protobuff-logo.png"> 
 <!-- Will be in future -->
 <!-- <img height="48" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">  -->
 <img height="45" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png">
