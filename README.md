@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=vigneshwaran-48&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
-  🌟 Self-taught full-stack developer with a passion for learning and exploring new technologies<br>
+  🌟 Full-stack developer with a passion for learning and exploring new technologies<br>
   🚀 Strong interest in web development, constantly seeking opportunities to enhance skills and knowledge<br>
   📚 Continuous learner, staying updated with industry trends and best practices<br>
   🤖 Currently working on a blog application in my free time<br>
