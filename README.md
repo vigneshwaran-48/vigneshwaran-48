@@ -36,7 +36,7 @@
 <img height="45" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png">
 
 
-### Libraries and Frameworks I expertise in
+### Libraries and Frameworks I use
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-green.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
