@@ -9,7 +9,7 @@
   🌟 Full-stack developer with a passion for learning and exploring new technologies<br>
   🚀 Strong interest in web development, constantly seeking opportunities to enhance skills and knowledge<br>
   📚 Continuous learner, staying updated with industry trends and best practices<br>
-  🤖 Currently working on a note taking application in my free time<br>
+  🤖 Currently working on a chip-8 emulator in my free time<br>
   📫 vigneshwaran4817@gmail.com <br> 
 
   </div>
