@@ -2,7 +2,7 @@
 
 <!-- <img src="./images/rishikesh-ganga.JPG" width="32%" alt="vector" align="right">  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full-stack+Developer+💻🌐;Curious+Learner+🌟;Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full-stack+Developer+💻;Exploring+Unreal+Engine+🎮;Always+learning+something+new+🚀;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=vigneshwaran-48&style=flat-square&color=blue" alt="Profile views"/>
 <div align="left">
