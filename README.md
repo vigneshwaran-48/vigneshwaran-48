@@ -7,10 +7,10 @@
 <img src="https://komarev.com/ghpvc/?username=vigneshwaran-48&style=flat-square&color=blue" alt="Profile views"/>
 <div align="left">
 👋 Hey, I’m Vigneshwaran.  
-💻 I’m a backend developer who likes exploring things beyond everyday work.  
-🦀 Recently learned Rust and built a small CHIP-8 emulator.  
-🎮 I also spend time experimenting with game development in Unreal Engine 5.  
-📚 I enjoy learning how things work underneath and trying out new ideas in my free time.  
+💻 I’m a backend developer who likes exploring things beyond everyday work.<br>
+🦀 Recently learned Rust and built a small CHIP-8 emulator.<br>
+🎮 I also spend time experimenting with game development in Unreal Engine 5.<br>
+📚 I enjoy learning how things work underneath and trying out new ideas in my free time.<br>
 📫 vigneshwaran4817@gmail.com  
 </div>
 <br>
